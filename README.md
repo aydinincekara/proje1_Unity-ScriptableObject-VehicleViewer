@@ -1,4 +1,5 @@
-![Uploading araba.gif…]()
+<img width="900" height="604" alt="araba" src="https://github.com/user-attachments/assets/7cd9920f-5a0b-486b-958a-f3bcde2042f6" />
+
 # Unity - Scriptable Object Tabanlı Dinamik Araç Galerisi (Vehicle Viewer)
 
 Bu proje, Unity oyun motorunda verilerin koda gömülmeden (hard-coded) esnek, modüler ve bellek dostu bir şekilde nasıl yönetileceğini gösteren profesyonel bir **mimari prototiptir**. Projede tasarım deseni olarak veri odaklı yaklaşım (Data-driven design) benimsenmiştir.
